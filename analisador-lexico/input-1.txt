@@ -1,0 +1,19 @@
+<3
+olaMun1
+olaMun2
+olaMun3
+// comentario uma linha so
+int main(void) {
+	float a = 1;
+	float b = 2;
+	float varF = 4.5a;
+	4.2.1;
+	boolher;
+	int j = a*2;
+	int i = 2*j;
+	/**
+		comentario
+		de varias
+		linhas
+	*/
+}

@@ -1,0 +1,12 @@
+int c = a + b;
+int d = a - b;
+int teste = 20;
+return 0;
+reto*rno;
+!
+9x;
+88dao7
+a > 9;
+bool is2Even = true;
+bool is4Even = false;
+}
