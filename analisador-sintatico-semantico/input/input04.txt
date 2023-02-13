@@ -1,0 +1,14 @@
+procedure procedimento() {
+    int varProc;
+    
+    varProc = 1000;
+}
+
+function main():int {
+    int numSum;
+
+    numSum = procedimento();
+    printf(numSum);
+
+    return 0;
+}

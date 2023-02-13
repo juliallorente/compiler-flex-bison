@@ -1,0 +1,48 @@
+function fatorial():int {
+    int x;
+    int fat;
+    int i;
+
+    x = 6;
+    fat = 1;
+
+    for (i = x; i > 1; i = i - 1) {
+        fat = fat * i;
+    }
+    
+    return fat;
+}
+
+function somatorio():int {
+    int y;
+    int j;
+    int sum;
+
+    y = 6;
+    sum = y;
+
+    for (j = 0; j < y; j = j + 1) {
+        sum = sum + j;
+    }
+
+    return sum;
+}
+
+function main():int {
+    int numFac;
+    int numSum;
+
+    numFac = fatorial();
+    numSum = somatorio();
+    
+    if (numFac == numSum) {
+        printf(0);
+    } else if (numSum == 120) {
+        printf(1);
+    } else {
+        printf(2);
+    }
+
+    printf(numFac);
+    printf(numSum);
+}
