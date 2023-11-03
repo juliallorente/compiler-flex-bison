@@ -1,7 +1,7 @@
 # Análise Léxica e Sintática
 
 ## 📜 Descrição
-Este repositório contém a implementação de um analisador léxico e sintático para a linguagem definida na gramática proposta. O analisador foi desenvolvido utilizando a ferramenta Flex para a análise léxica e, embora a análise sintática não tenha sido detalhada no documento fornecido, podemos assumir que foi utilizada a ferramenta Bison ou similar.
+Este repositório contém a implementação de um analisador léxico e sintático para a linguagem definida na gramática proposta. O analisador foi desenvolvido utilizando a ferramenta Flex para a análise léxica e, na análise sintática utilizada a ferramenta Bison.
 
 ## 📂 Estrutura do Repositório
 - `tr-parte1.lex`: Contém as definições e especificações (expressões regulares) da gramática para a análise léxica.
