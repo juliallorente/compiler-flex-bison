@@ -19,7 +19,7 @@ Este repositório contém a implementação de um analisador léxico e sintátic
    ```bash
   chmod +x compile.sh
   ```
-4. Compile e execute o analisador com um arquivo de entrada:
+3. Compile e execute o analisador com um arquivo de entrada:
    ```bash
  ./compile.sh input-1.txt
 ```
