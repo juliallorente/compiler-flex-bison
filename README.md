@@ -12,17 +12,14 @@ Este repositório contém a implementação de um analisador léxico e sintátic
 
 ## ⚙️ Como Compilar e Executar
 1. Navegue até o diretório do projeto:
-   ```bash
    cd COM/trabalho1/
-   ```
-2. Dê permissão de execução para o script:
-   ```bash
+   
+3. Dê permissão de execução para o script:
   chmod +x compile.sh
-  ```
+
 3. Compile e execute o analisador com um arquivo de entrada:
-   ```bash
  ./compile.sh input-1.txt
-```
+
 ## 🌟 Funcionalidades
 - Análise Léxica: O código de entrada é lido e os tokens são identificados e inseridos na tabela de símbolos.
 - Análise Sintática: (Detalhes específicos sobre a análise sintática devem ser adicionados aqui, como a estrutura da gramática, regras sintáticas, etc.)
